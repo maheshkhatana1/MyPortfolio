@@ -1502,6 +1502,7 @@ svg:not(:root) {
 .footer-text {
   color: #868e96!important;
   text-align: center;
+  
 }
 .footer-text > p {
   display: block;
