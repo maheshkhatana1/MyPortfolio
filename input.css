@@ -281,7 +281,7 @@ body.dark-mode .icon-button {
   display: block;
   font-size: 80px;
   font-weight: 300;
-  padding-left: 60px;
+  padding-left: 65px;
   font-weight: lighter;
 }
 .skills-main-div {
@@ -1367,7 +1367,6 @@ body.dark-mode  .certificate-detail-div >p {
   box-shadow: 0 0 20px 0;
 }
 .rectangle {
-  background: url(/static/media/talksCardBack.73ed154….svg);
   border-radius: 4px;
   box-shadow: 0 20px 50px #d9dbdf;
   height: 300px;
